@@ -6,7 +6,6 @@ dmoj_v2.1.1 스냅샷 사용법
 * dmoj_v2.1.1 스냅샷 선택
 * cse-services.flavor 선택	
 
-
 자세한 설치 방법은 https://jcloud-devops.github.io/user-guide.html 참고
 
 
