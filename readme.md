@@ -1,6 +1,6 @@
 dmoj_v2.1.1 스냅샷 사용법
 =========================
->이 스냅샷은 2021-07-06 일자 기준 dmoj의 [releases](https://github.com/DMOJ/online-judge) 버전으로 만들어졌습니다.
+>이 스냅샷은 2021-07-06 일자 기준 dmoj의 v2.1.1 [releases](https://github.com/DMOJ/online-judge) 버전으로 만들어졌습니다.
 
 # Jcloud 인스턴스 생성
 * dmoj_v2.1.1 스냅샷 선택
