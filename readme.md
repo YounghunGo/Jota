@@ -83,7 +83,7 @@ bind-addr: 0.0.0.0:8000
     .
 ```
 
-code-server 
+code-server 활성화
 ```
 code-server
 ```
