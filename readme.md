@@ -55,7 +55,7 @@ ALLOWED_HOSTS = ['IP address 입력']
 ![site](https://user-images.githubusercontent.com/42068110/124557855-f00eb380-de74-11eb-8b38-780df93f938b.PNG)
 
 ```
-* 초기 계정   
+초기 계정   
 id : admin   
 passwd : Jotajota!
 ```
