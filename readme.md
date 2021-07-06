@@ -5,7 +5,7 @@ dmoj_v2.1.1 스냅샷 사용법
 # Jcloud 인스턴스 생성
 * dmoj_v2.1.1 스냅샷 선택
 * cse-services.flavor 선택	
-* ssh 7777 포트로 접근
+* ssh 7777 포트로 접근   
 자세한 설치 방법은 https://jcloud-devops.github.io/user-guide.html 참고
 
 
