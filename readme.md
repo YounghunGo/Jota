@@ -11,7 +11,7 @@ sudo -s
 ```
 * ### 가상환경 활성화
 ``` 
-. dmojsite/bin/activate
+root@jota:/home/jota# . dmojsite/bin/activate
 (dmojsite) root@jota:/home/jota#
 ```
 
