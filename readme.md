@@ -71,7 +71,7 @@ judge-server를 시작할 때는 root 권한을 해제하여 가상 환경만 �
 (dmojsite) ubuntu@jota:/home/jota/site/dmoj# dmoj -c judge.yml localhost
 ```
 
-dmoj 사이트의 **관리자 페이지 - 제출 - 채점기** 에서 jota-judge가 아래와 같이 활성화 될 경우 정상
+dmoj 사이트의 **관리자 페이지 - 제출 - 채점기** 에서 jota-judge에 초록불이 들어오면 정상
 ![judge](https://user-images.githubusercontent.com/42068110/124560838-36b1dd00-de78-11eb-8216-4b60c01f1708.PNG)
 
 
