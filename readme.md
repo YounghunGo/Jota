@@ -72,18 +72,7 @@ dmoj 사이트의 **관리자 페이지 - 제출 - 채점기** 에서 jota-judge
 > judge-server 경로 : /usr/lib/python3.8/site-packages/dmoj/
 
 # code-server
-```
-vi ~/.config/code-server/config.yaml
-```
-code-server를 외부에서 접근하기 위해 bind-addr을 아래와 같이 수정
-```
-bind-addr: 0.0.0.0:8000
-    .
-    .
-    .
-```
 
-code-server 활성화
 ```
 code-server
 ```
