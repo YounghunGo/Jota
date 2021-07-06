@@ -16,11 +16,19 @@ root@jota:/home/jota# . dmojsite/bin/activate
 ```
 
 # django 설정 파일 수정
-```(dmojsite) root@jota:/home/jota/site/dmoj# vi local_settings.py```
+```
+(dmojsite) root@jota:/home/jota/site/dmoj# vi local_settings.py
+```
 
 ALLOWD_HOST에 본인이 할당받은 외부 IP 입력
 
-``` ALLOWED_HOSTS = ['IP address 입력'] ```
+``` 
+              .
+              .
+ALLOWED_HOSTS = ['IP address 입력']
+              .
+              .
+```
 
 # django 서버(site) start
 
