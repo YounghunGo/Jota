@@ -2,11 +2,15 @@ dmoj_v2.1.1 스냅샷 사용법
 =========================
 >이 스냅샷은 2021-07-06 일자 기준 dmoj의 releases 버전으로 만들어졌습니다.
 
+# Jcloude 인스턴스 생성
+* 아래 스냅샷으로 인스턴스 생성
+![instance](https://user-images.githubusercontent.com/42068110/124563946-7cbc7000-de7b-11eb-8aca-acbe6dc59b15.PNG)
+
+자세한 설치 방법은 https://jcloud-devops.github.io/user-guide.html 참고
+
+
 # 유의 사항
 가상 환경 저장 공간에 dmoj 구축에 필요한 모든 python 패키지들이 설치되어야 정상이지만, 이 스냅샷은 일부 패키지가 global 환경에 설치되어있습니다. 따라서 아래와 같이 root 권한과 가상 환경이 활성화된 상태에서 명령을 수행해야합니다.   
-
-# Jcloude 인스턴스 생성
-* 
 
 * ### root 권한 얻기
 ```
