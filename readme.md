@@ -3,11 +3,9 @@ dmoj_v2.1.1 스냅샷 사용법
 >이 스냅샷은 2021-07-06 일자 기준 dmoj의 releases 버전으로 만들어졌습니다.
 
 # Jcloud 인스턴스 생성
-* 아래 스냅샷으로 인스턴스 생성
-![instance](https://user-images.githubusercontent.com/42068110/124563946-7cbc7000-de7b-11eb-8aca-acbe6dc59b15.PNG)
-
+* dmoj_v2.1.1 스냅샷 선택
 * cse-services.flavor 선택	
-![flavor](https://user-images.githubusercontent.com/42068110/124564690-47fce880-de7c-11eb-9bd7-13a57b828732.PNG)
+
 
 자세한 설치 방법은 https://jcloud-devops.github.io/user-guide.html 참고
 
