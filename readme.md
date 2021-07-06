@@ -54,11 +54,11 @@ passwd : Jotajota!
 ```
 # site와 judge-server를 bridge로 연결
 
-* ### bridged 작동   
+* ### bridge 활성화   
 ```
 (dmojsite) root@jota:/home/jota/site/dmoj# python3 manage.py runbridged
 ```
-* ### judge-server start   
+* ### judge-server  
 judge-server를 시작할 때는 root 권한을 해제하여 가상 환경만 활성화된 상태에서 진행해야합니다.
 ```
 (dmojsite) ubuntu@jota:/home/jota/site/dmoj# dmoj -c judge.yml localhost
